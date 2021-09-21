@@ -8,3 +8,5 @@ The dataset used in the problem statement, popularly known as Iris Dataset or Fi
 2.Iris-virginica
 
 3.Iris-versicolor
+
+The big idea is that based on the length and width of sepals and petals of a flower, can we build a classification model that tells us the species of a particular Iris flower? The answer is "yes, we can". 
